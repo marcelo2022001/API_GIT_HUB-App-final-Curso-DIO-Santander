@@ -7,7 +7,6 @@ Projeto final do bootcamp [Inter Android Developer]
  * [Ezequiel Messore](https://www.linkedin.com/in/ezequielmessore/)
 
 ### Tecnlogias
-* [Room](https://developer.android.com/training/data-storage/room?hl=pt-br)
 * [Componentes da arquitetura do Android](https://developer.android.com/topic/libraries/architecture?hl=pt-br)
 * [Componentes do Material Design](https://material.io/components?platform=android)
 * [Corrotinas](https://developer.android.com/kotlin/coroutines?hl=pt-br)
